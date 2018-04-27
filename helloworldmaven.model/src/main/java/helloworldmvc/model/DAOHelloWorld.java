@@ -1,4 +1,4 @@
-package helloworldmaven.model;
+package helloworldmvc.model;
 
 import java.io.File;
 import java.io.FileNotFoundException;

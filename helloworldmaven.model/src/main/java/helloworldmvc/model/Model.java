@@ -1,4 +1,4 @@
-package helloworldmaven.model;
+package helloworldmvc.model;
 
 import helloworldmvc.contract.IModel;
 

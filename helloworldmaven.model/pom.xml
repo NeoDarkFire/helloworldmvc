@@ -5,7 +5,7 @@
     <artifactId>helloworldmaven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>helloworldmaven.model</artifactId>
+  <artifactId>helloworldmvc.model</artifactId>
   <name>model</name>
   <dependencies>
   	<dependency>
