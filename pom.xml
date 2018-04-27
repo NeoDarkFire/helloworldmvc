@@ -21,6 +21,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>fr.exia</groupId>
+    	<artifactId>helloworldmvc.model</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <modules>
   	<module>helloworldmvc.controller</module>
