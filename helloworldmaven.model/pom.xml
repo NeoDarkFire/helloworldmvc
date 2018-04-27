@@ -7,4 +7,11 @@
   </parent>
   <artifactId>helloworldmaven.model</artifactId>
   <name>model</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>fr.exia</groupId>
+  		<artifactId>helloworldmvc.contract</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
